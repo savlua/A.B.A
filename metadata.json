@@ -1,0 +1,6 @@
+{
+  "name": "A.B.A. Aprende Jugando",
+  "description": "Plataforma neuroeducativa estructurada y amable con gestión relacional de 13 tablas InnoDB, misiones interactivas y refuerzo positivo ABA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
